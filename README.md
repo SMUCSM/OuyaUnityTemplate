@@ -1,7 +1,7 @@
 #Ouya Unity Template
 1. Read and follow [ODK Setup Guide](https://devs.ouya.tv/developers/docs/setup) up to Eclipse
 2. Install [Android NDK](http://developer.android.com/tools/sdk/ndk/index.html)
-3. Install [Java 1.6 32 bit](http://www.oracle.com/technetwork/java/javasebusiness/downloads/java-archive-downloads-javase6-419409.html#jdk-6u45-oth-JPR)
+3. Install Java 1.6 32 bit[Windows](http://www.oracle.com/technetwork/java/javasebusiness/downloads/java-archive-downloads-javase6-419409.html#jdk-6u45-oth-JPR) [Mac](http://support.apple.com/kb/DL1572?viewlocale=en_US)
   * Windows 8 can use 1.7
 
 #Usage
