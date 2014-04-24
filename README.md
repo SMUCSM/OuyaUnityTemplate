@@ -9,6 +9,6 @@
 2. Open the project(folder) in Unity
 3. Open the unity panel ```Window -> Open Ouya Panel```
 4. Set your java, Android SDK and NDK paths, if they are greyed out something is incorrect.
-5. In the Ouya tab click these buttons in order, Compile, Compile Java, Compile Plugin, Compile NDK
-6. Check your build settings and make sure OuyaInit is always the first scene
+5. Check your build settings (Android platform) and make sure OuyaInit is always the first scene
+6. In the Ouya tab click these buttons in order, Compile, Compile Java, Compile Plugin, Compile NDK
 7. Connect Ouya, Build and Run
