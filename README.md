@@ -1,6 +1,4 @@
 #Ouya Unity Template
-This is a template designed to get you up and running quickly.  
-
 1. Read and follow [ODK Setup Guide](https://devs.ouya.tv/developers/docs/setup) up to Eclipse
 2. Install [Android NDK](http://developer.android.com/tools/sdk/ndk/index.html)
 3. Install [Java 1.6 32 bit](http://www.oracle.com/technetwork/java/javasebusiness/downloads/java-archive-downloads-javase6-419409.html#jdk-6u45-oth-JPR)
